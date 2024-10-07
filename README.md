@@ -46,7 +46,7 @@ Hello! I am a Backend and Frontend Developer currently pursuing a degree in Comp
 
   
 Contact
-<a href="https:[//x.com/MVPB_20)" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<a href="https:[//x.com/MVPB_20)" ><img src="https://img.shields.io/twitter/follow/MVPB_20.svg?style=social" /> </a>
 Email: mariapinedabarroeta@gmail.com
 LinkedIn: www.linkedin.com/in/maría-valentina-pineda-barroeta/
 GitHub: MariaPineda20
