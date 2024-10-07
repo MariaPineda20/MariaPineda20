@@ -1,4 +1,4 @@
-## Hi, Am Maria👋
+## Hi, I'm Maria👋
 
 ## About Me
 Hello! I am a Backend and Frontend Developer currently pursuing a degree in Computer Engineering. I love creating efficient and user-friendly applications.
@@ -45,11 +45,11 @@ Hello! I am a Backend and Frontend Developer currently pursuing a degree in Comp
 - Expected Graduation: 2026
 
   
-Contact
-<a href="https:[//x.com/MVPB_20)" ><img src="https://img.shields.io/twitter/follow/MVPB_20.svg?style=social" /> </a>
-Email: mariapinedabarroeta@gmail.com
-LinkedIn: www.linkedin.com/in/maría-valentina-pineda-barroeta/
-GitHub: MariaPineda20
+## Contact
+- <a href="https:[//x.com/MVPB_20)" ><img src="https://img.shields.io/twitter/follow/MVPB_20.svg?style=social" /> </a>
+- Email: mariapinedabarroeta@gmail.com
+- LinkedIn: www.linkedin.com/in/maría-valentina-pineda-barroeta/
+- GitHub: MariaPineda20
 
 <!--
 **MariaPineda20/MariaPineda20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
