@@ -1,4 +1,7 @@
-## Hi, I'm Maria👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/user-attachments/assets/3e06f557-3ba5-4862-bc70-40142d7bd53a" />
+   <h3 align="center">¡Hi 👋! I'am 👨🏻‍💻</h3>
+</p>
 
 <p align="center">
   <span style="width: 16px;"> </span>
