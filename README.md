@@ -1,5 +1,5 @@
 <p align="center">
-   <h3 align="center">¡Hi 👋! I'am Maria Valentina💻</h3>
+   <h3 align="center">¡Hi 👋! I'm Maria Valentina💻</h3>
 </p>
 <p align="center">
    <img align="center" width="500" src="https://github.com/user-attachments/assets/3e06f557-3ba5-4862-bc70-40142d7bd53a" />
